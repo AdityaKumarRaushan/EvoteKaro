@@ -1,6 +1,30 @@
 # EvoteKaro
 This repostiory contains the source code of our project Evotekaro
 
+These are some glimple of the project 
+
+![image](https://github.com/AdityaKumarRaushan/EvoteKaro/assets/97014813/27159bbb-9d73-4bcf-a8fb-4f9c9c78830e)
+
+![image](https://github.com/AdityaKumarRaushan/EvoteKaro/assets/97014813/690766ed-2bd5-419a-9f14-e229ff2ec3f2)
+
+![image](https://github.com/AdityaKumarRaushan/EvoteKaro/assets/97014813/dd45230c-f8bd-4864-9c74-2526b95449f5)
+
+![image](https://github.com/AdityaKumarRaushan/EvoteKaro/assets/97014813/e4816642-e997-4bde-b8d1-4ff89f34fddf)
+
+![image](https://github.com/AdityaKumarRaushan/EvoteKaro/assets/97014813/2442b5d0-0fe9-4ed2-ab44-d7fb7ae1a614)
+
+![image](https://github.com/AdityaKumarRaushan/EvoteKaro/assets/97014813/dfb1948b-6378-49bc-8465-a2af0747f8ca)
+
+![image](https://github.com/AdityaKumarRaushan/EvoteKaro/assets/97014813/a2107e4e-c535-476b-8d29-a04c7fde6791)
+
+![image](https://github.com/AdityaKumarRaushan/EvoteKaro/assets/97014813/76b224f0-dfb7-481b-bb1e-4ce8dcce9622)
+
+![image](https://github.com/AdityaKumarRaushan/EvoteKaro/assets/97014813/edb2ae85-a793-4c4b-a4ad-fdca85a5707c)
+
+![image](https://github.com/AdityaKumarRaushan/EvoteKaro/assets/97014813/8223ef42-fc09-4a70-84dd-25818c335c50)
+
+![image](https://github.com/AdityaKumarRaushan/EvoteKaro/assets/97014813/f62a9808-6eec-43ae-b017-f533522b0b08)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
