@@ -1,5 +1,5 @@
 # EvoteKaro
-This repostiory contains the source code of our project Evotekaro
+This repostiory contains the source code of our project Evotekaro, a dedicated platform for contesting the college internal elections.
 
 These are some glimple of the project 
 
