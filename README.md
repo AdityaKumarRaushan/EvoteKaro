@@ -1,7 +1,11 @@
 # EvoteKaro
 This repostiory contains the source code of our project Evotekaro, a dedicated platform for contesting the college internal elections.
+
 We have implemented the various software development principles and the best practices.
-We also do the testing of our software by testing its APIs and their working and responses.
+
+We have a full software documentation pptx for demonstrating the software.
+
+We also do the testing of our software by testing its APIs through their working and responses.
 
 These are some glimple of the project 
 
